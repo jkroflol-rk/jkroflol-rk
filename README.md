@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">A Computer Science - Software Development Student at Swinburne Vietnam<br>Currently working as an intern at FPT Information System, studying Spring framework</h2>
+<h3 align="center">A Computer Science - Software Development Student at Swinburne Vietnam<br>Currently working as an intern at FPT Information System, studying Spring framework</h3>
 
 ###
 
@@ -101,6 +101,8 @@
 </div>
 
 ###
+
+<h2>📈 Stats:</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jkroflol-rk&show_icons=true&theme=dracula" height="150" alt="stats graph"  />
