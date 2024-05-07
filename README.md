@@ -1,12 +1,12 @@
-<h2 align="center">Hi 👋, I'm J.K.Roflol / Le Xuan Nhat</h2>
+<h1 align="center">Hi 👋, I'm J.K.Roflol / Le Xuan Nhat</h1>
 
 ###
 
-<h3 align="center">A Computer Science - Software Development Student at Swinburne Vietnam<br>Currently working as an intern at FPT Information System, studying Spring framework</h3>
+<h2 align="center">A Computer Science - Software Development Student at Swinburne Vietnam<br>Currently working as an intern at FPT Information System, studying Spring framework</h2>
 
 ###
 
-<h3 align="left">💫 About Me:</h3>
+<h2 align="left">💫 About Me:</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">🏆 Notable Achievements:</h3>
+<h2 align="left">🏆 Notable Achievements:</h2>
 <ul>
   <li>Scholarship of Excellence - 50% at Swinburne Vietnam</li>
   <li>Best Performance Award in subject Data Science Principles</li>
@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="left">🌐Social</h3>
+<h2 align="left">🌐Social</h2>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<h3 align="left">💻 Technology</h3>
+<h2 align="left">💻 Technology</h2>
 
 ###
 
@@ -103,7 +103,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jkroflol-rk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jkroflol-rk&show_icons=true&theme=dracula" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jkroflol-rk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=jkroflol-rk&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=jkroflol-rk&theme=monokai&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
