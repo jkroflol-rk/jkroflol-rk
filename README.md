@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I am currently focusing on Backend Development, but I enjoy most things computer-related. I have experience leading and creating multiple websites for my university projects and some fundamental knowledge of ML/DS.</p>
+<p align="left">I am currently focusing on Backend Development, but I enjoy most things computer-related. I have experience leading and creating multiple websites for my university projects.</p>
 
 ###
 
