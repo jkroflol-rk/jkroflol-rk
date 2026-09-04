@@ -85,11 +85,3 @@
 </div>
 
 ###
-
-<h3 align="left">Profile views:</h3>
-
-###
-
-<img align="left" src="https://profile-counter.glitch.me/jkroflol-rk/count.svg?"  />
-
-###
